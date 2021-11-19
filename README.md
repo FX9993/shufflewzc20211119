@@ -1,3 +1,7 @@
+一键docker exec -it qinglong bash -c "$(curl -fsSL https://ghproxy.com/https://github.com/shufflewzc/VIP/blob/main/Scripts/sh/1customCDN.sh)"
+
+Cancel changes
+
 # 📌 [News](./Log/News.md#news)
 
 
